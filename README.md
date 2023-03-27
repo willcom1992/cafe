@@ -1,2 +1,2 @@
 # cafe
-html&amp;cssの基本
+「html & amp;cssのきほん」の学習記録
